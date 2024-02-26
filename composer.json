@@ -20,8 +20,7 @@
     "illuminate/http": "^10.0",
     "illuminate/routing": "^10.0",
     "illuminate/support": "^10.0",
-    "nesbot/carbon": "^2.62.1",
-    "quickbooks/v3-php-sdk": "^5.4.6"
+    "quickbooks/v3-php-sdk": "^6.0"
   },
   "require-dev": {
     "laravel/pint": "^1.2",
